@@ -3,8 +3,6 @@
 
 **AI/ML Developer sharing insights and latest trends. Connect with me on LinkedIn or email for collaboration.**
 
-!589(https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
-
 ## About Me
 
 🔬 I'm currently working on **LLMs and NLP Projects.**
